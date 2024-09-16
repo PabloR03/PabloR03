@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%0000FF&size=25&center=true&vCenter=true&width=600&height=100&lines=6th+Semester+Engineering+Student;Passionate+about+Programming+Logic;Eager+to+Learn+and+Explore">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=6th+Semester+Engineering+Student;Passionate+about+Programming+Logic;Eager+to+Learn+and+Explore">
   </a>
 </p>
 
@@ -15,13 +15,12 @@
 
 ### Spotify Playing 🎧
 
-<a href="https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb?si=cf9cc27efc5f4b57">
-  <img src="https://spotify-now-playing-widget.vercel.app/api/spotify?user=5d5tkhfr5ha32s77qzzvvkyeb" alt="Spotify Now Playing"/>
-</a>
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify?user=5d5tkhfr5ha32s77qzzvvkyeb)](https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb?si=cf9cc27efc5f4b57)
+
 
 ---
 
-<img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColorcountColor&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
@@ -54,38 +53,37 @@
 <h2 align="center"> Github Statistics 📈 </h2>
 
 <div align="center"> 
-   <!-- GitHub Stats -->
    <a href="https://github.com/PabloR03">
-     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PabloR03&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-   </a>
-   
-   <!-- Top Languages -->
-   <a href="https://github.com/PabloR03">
-     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloR03&theme=react&line_height=40&hide=css" />
-   </a>
-   
-   <!-- Contribution Graph -->
-   <a href="https://github.com/PabloR03">
-     <img align="center" src="https://github.com/PabloR03/PabloR03/blob/main/github-contribution-grid-snake.svg" alt="Snake Game"/>
-   </a>
-   
-   <!-- Activity Graph -->
-   <a href="https://github.com/PabloR03">
-     <img align="center" src="https://activity-graph.herokuapp.com/graph?username=PabloR03&theme=react-dark" />
-   </a>
-   
-   <!-- Metrics -->
-   <a href="https://github.com/PabloR03">
-     <img align="center" src="https://metrics.lecoq.io/PabloR03?template=classic&config.timezone=America%2FNew_York" />
-   </a>
+    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloR03&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+  </a>
+  <a href="https://github.com/PabloR03">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloR03&theme=react&line_height=40&hide=css"/>
+  </a>
 </div>
 
 ---
 
-## 🐍 A Snake Eating my Contributions Graph
+<summary><h3> My Repositories </h3></summary>
 
-<p align="center">
-  <img src="https://github.com/PabloR03/PabloR03/blob/main/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
+<div>
+  <p align="center">
+    <a href="https://github.com/PabloR03/PF_ORGA_G2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=PF_ORGA_G2&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/PabloR03/OLC1_Proyecto2_202201947">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=OLC1_Proyecto2_202201947&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/PabloR03/IPC2_Proyecto3_202201947">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=IPC2_Proyecto3_202201947&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/PabloR03/LFP_S2_2023_Proyecto2_202201947">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=LFP_S2_2023_Proyecto2_202201947&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+    <a href="https://github.com/PabloR03/IPC1-S12023-Proyecto2-202201947">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=IPC1-S12023-Proyecto2-202201947&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+  </p>
+</div>
+</details>
 
 ---
