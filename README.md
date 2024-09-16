@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%0000FF&size=25&center=true&vCenter=true&width=600&height=100&lines=6th+Semester+Engineering+Student;Passionate+about+Programming+Logic;Eager+to+Learn+and+Explore">
@@ -18,9 +18,10 @@
 <a href="https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb?si=cf9cc27efc5f4b57">
   <img src="https://spotify-now-playing-widget.vercel.app/api/spotify?user=5d5tkhfr5ha32s77qzzvvkyeb" alt="Spotify Now Playing"/>
 </a>
+
 ---
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColor=%237B1E7B"/>
 
 ### Contact with me 📝
 
