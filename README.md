@@ -15,7 +15,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify?user=5d5tkhfr5ha32s77qzzvvkyeb)](https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb?si=cf9cc27efc5f4b57)
+[![Spotify](https://spotify-novatorem-rev794k8f-pablor03s-projects.vercel.app/api/spotify)](https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb?si=cf9cc27efc5f4b57)
 
 
 ---
