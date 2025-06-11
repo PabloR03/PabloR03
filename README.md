@@ -9,16 +9,6 @@
 - 🌍 I live in Guatemala.
 - ⚽ I enjoy playing soccer, listening to music, and socializing with friends.
 
----
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify?user=5d5tkhfr5ha32s77qzzvvkyeb)](https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb?si=cf9cc27efc5f4b57)
-
-
----
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColorcountColor&countColor=%237B1E7B"/>
 
