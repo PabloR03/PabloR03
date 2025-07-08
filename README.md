@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=7th+Semester+Engineering+Student;Passionate+about+Programming+Logic;Eager+to+Learn+and+Explore">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=8th+Semester+Engineering+Student;Passionate+about+Programming+Logic;Eager+to+Learn+and+Explore">
   </a>
 </p>
 
