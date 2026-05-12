@@ -72,7 +72,6 @@
 </div>
 
 ---
-
 <h3> Featured Projects 📂</h3>
 
 <div>
