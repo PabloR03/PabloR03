@@ -32,7 +32,7 @@
 
 ---
 
-<h3 align="center">Languages and Tools 🛠</h3>
+<h3 align="center">Languages, Tools & Methodologies 🛠</h3>
 
 <p align="center">
   <!-- Backend & Languages -->
@@ -47,8 +47,13 @@
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=ffffff" alt="GCP" />
   <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff" alt="GitHub Actions" />
   
-  <!-- Data -->
+  <!-- Data & Analytics -->
   <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=ffffff" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+
+  <!-- Methodologies & Management -->
+  <img src="https://img.shields.io/badge/-Scrum-008CB9?style=flat-square&logo=scrumalliance&logoColor=ffffff" alt="Scrum" />
+  <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=ffffff" alt="Jira" />
 </p>
 
 <br/>
@@ -72,13 +77,14 @@
 
 <div>
   <p align="center">
-    <!-- Proyecto Microservicios PHARM-USAC -->
-    <a href="https://github.com/PabloR03">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=PHARM-USAC&theme=tokyonight" alt="PHARM-USAC" />
+    <!-- Proyecto Software Avanzado -->
+    <a href="https://github.com/manuelimal02/SA-B-Proyecto1_G2">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuelimal02&repo=SA-B-Proyecto1_G2&theme=tokyonight" alt="SA-B-Proyecto1_G2" />
     </a>
-    <!-- Análisis de Datos NY Taxi / BigQuery -->
-    <a href="https://github.com/PabloR03">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=NY-Taxi-Data-Analysis&theme=tokyonight" alt="Data Analysis" />
+    
+    <!-- Proyecto Análisis y Diseño 2 -->
+    <a href="https://github.com/jorgemejia25/AYD2_P_2S2025_PROYECTO_G1">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemejia25&repo=AYD2_P_2S2025_PROYECTO_G1&theme=tokyonight" alt="AYD2_P_2S2025_PROYECTO_G1" />
     </a>
   </p>
 </div>
