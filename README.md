@@ -1,14 +1,14 @@
-<h1 align="center">Hi , I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=9th+Semester+Engineering+Student;Passionate+about+Programming+Logic;Eager+to+Learn+and+Explore">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=10th+Semester+Engineering+Student;Systems+Engineering+Teaching+Assistant;Cloud+and+DevOps+Enthusiast">
   </a>
 </p>
 
-- 🎓 I’m studying at Universidad de San Carlos de Guatemala.
+- 🎓 I’m a 10th-semester Systems Engineering student at Universidad de San Carlos de Guatemala.
+- 🏫 Teaching Assistant for Computer Networks 1 at the School of Computer Science (USAC).
 - 🌍 I live in Guatemala.
-- ⚽ I enjoy playing soccer, listening to music, and socializing with friends.
-
+- 🏃 I enjoy training for 21k races, going to the gym, and following NBA/Football analytics.
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColorcountColor&countColor=%237B1E7B"/>
 
@@ -32,25 +32,28 @@
 
 ---
 
-
 <h3 align="center">Languages and Tools 🛠</h3>
 
 <p align="center">
-  <img src="http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff" alt="Java" />
+  <!-- Backend & Languages -->
   <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
-  <img src="https://img.shields.io/badge/-Fortran-734F96?style=flat-square&logo=fortran&logoColor=ffffff" alt="Fortran" />
-  <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff" alt="HTML5" />
-  <img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff" alt="NestJS" />
+  <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff" alt="R" />
+  
+  <!-- DevOps & Cloud -->
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff" alt="Go" />
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=ffffff" alt="GCP" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff" alt="GitHub Actions" />
+  
+  <!-- Data -->
+  <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=ffffff" alt="BigQuery" />
 </p>
 
 <br/>
 
 ---
-
 
 <h2 align="center"> Github Statistics 📈 </h2>
 
@@ -65,26 +68,17 @@
 
 ---
 
-<h3> My Repositories 📂</h3>
+<h3> Featured Projects 📂</h3>
 
 <div>
   <p align="center">
-    <a href="https://github.com/PabloR03/PF_ORGA_G2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=PF_ORGA_G2&theme=tokyonight" alt="GitHub Stats" />
+    <!-- Proyecto Microservicios PHARM-USAC -->
+    <a href="https://github.com/PabloR03">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=PHARM-USAC&theme=tokyonight" alt="PHARM-USAC" />
     </a>
-    <a href="https://github.com/PabloR03/OLC1_Proyecto2_202201947">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=OLC1_Proyecto2_202201947&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/PabloR03/IPC2_Proyecto3_202201947">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=IPC2_Proyecto3_202201947&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/PabloR03/LFP_S2_2023_Proyecto2_202201947">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=LFP_S2_2023_Proyecto2_202201947&theme=tokyonight" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/PabloR03/IPC1-S12023-Proyecto2-202201947">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=IPC1-S12023-Proyecto2-202201947&theme=tokyonight" alt="GitHub Stats" />
+    <!-- Análisis de Datos NY Taxi / BigQuery -->
+    <a href="https://github.com/PabloR03">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=PabloR03&repo=NY-Taxi-Data-Analysis&theme=tokyonight" alt="Data Analysis" />
     </a>
   </p>
 </div>
-
----
