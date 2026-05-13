@@ -10,14 +10,14 @@
 - 🌍 I live in Guatemala.
 - 🏃 I enjoy training for 21k races, going to the gym, and following NBA/Football analytics.
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColorcountColor&countColor=%237B1E7B"/>
+<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColor=%237B1E7B"/>
 
 ---
 
 <h3 align="center">Contact with me 📝</h3>
 
 <p align="center">
-  <a href="https://www.instagram.com/pablo.03r/">
+  <a href="https://www.instagram.com/pabl0x03/">
     <img alt="Instagram" height="40px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo.png" />
   </a>
   <a href="https://discord.com/users/Pabro03">
@@ -66,24 +66,6 @@
    <a href="https://github.com/PabloR03">
     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloR03&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
   </a>
-  <a href="https://github.com/PabloR03">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloR03&theme=react&line_height=40&hide=css"/>
-  </a>
 </div>
 
 ---
-<h3> Featured Projects 📂</h3>
-
-<div>
-  <p align="center">
-    <!-- Proyecto Software Avanzado -->
-    <a href="https://github.com/manuelimal02/SA-B-Proyecto1_G2">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=manuelimal02&repo=SA-B-Proyecto1_G2&theme=tokyonight" alt="SA-B-Proyecto1_G2" />
-    </a>
-    
-    <!-- Proyecto Análisis y Diseño 2 -->
-    <a href="https://github.com/jorgemejia25/AYD2_P_2S2025_PROYECTO_G1">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jorgemejia25&repo=AYD2_P_2S2025_PROYECTO_G1&theme=tokyonight" alt="AYD2_P_2S2025_PROYECTO_G1" />
-    </a>
-  </p>
-</div>
