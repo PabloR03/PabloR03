@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+%E2%80%94+Pensum+Closure+%F0%9F%8E%93;Computer+Networks+Teaching+Assistant;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+%E2%80%94+Pensum+Closure+%F0%9F%8E%93;Computer+Networks+Teaching+Assistant;Full-Stack+Developer+%26+Cloud+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,7 +13,8 @@
 - 🎓 I've completed all coursework (*cierre de pensum*) in Computer Science and Systems Engineering at Universidad de San Carlos de Guatemala.
 - 🏫 Teaching Assistant for Computer Networks 1 at the School of Computer Science and Systems Engineering (USAC).
 - 🌍 Based in Guatemala City, Guatemala.
-- 🏃 I enjoy training for 21K races, going to the gym, and following NBA/football analytics.
+- 💻 Full-stack developer at heart, with a strong interest in cloud.
+- ⚽🎧 Outside of code, I'm into football and music.
 
 ---
 
@@ -42,7 +43,7 @@
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff" alt="NestJS" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff" alt="R" />
 
-  <!-- DevOps & Cloud -->
+  <!-- Cloud & Containers -->
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
   <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=ffffff" alt="Google Cloud" />
