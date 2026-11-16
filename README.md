@@ -1,34 +1,35 @@
 <h1 align="center">Hi, I'm Pablo Rodriguez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300FF00&size=25&center=true&vCenter=true&width=600&height=100&lines=10th+Semester+Engineering+Student;Systems+Engineering+Teaching+Assistant;Cloud+and+DevOps+Enthusiast">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&color=00FF00&center=true&vCenter=true&width=600&height=100&lines=Systems+Engineering+%E2%80%94+Pensum+Closure+%F0%9F%8E%93;Computer+Networks+Teaching+Assistant;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
-- 🎓 I’m a 10th-semester Systems Engineering student at Universidad de San Carlos de Guatemala.
-- 🏫 Teaching Assistant for Computer Networks 1 at the School of Computer Science (USAC).
-- 🌍 I live in Guatemala.
-- 🏃 I enjoy training for 21k races, going to the gym, and following NBA/Football analytics.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PabloR03&color=7B1E7B&style=flat-square&label=Profile+views" alt="Profile views" />
+</p>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=PabloR03&repo=PabloR03&countColor=%237B1E7B"/>
+- 🎓 I've completed all coursework (*cierre de pensum*) in Computer Science and Systems Engineering at Universidad de San Carlos de Guatemala.
+- 🏫 Teaching Assistant for Computer Networks 1 at the School of Computer Science and Systems Engineering (USAC).
+- 🌍 Based in Guatemala City, Guatemala.
+- 🏃 I enjoy training for 21K races, going to the gym, and following NBA/football analytics.
 
 ---
 
-<h3 align="center">Contact with me 📝</h3>
+<h3 align="center">Connect with me 📝</h3>
 
 <p align="center">
   <a href="https://www.instagram.com/pabl0x03/">
-    <img alt="Instagram" height="40px" src="https://1000marcas.net/wp-content/uploads/2019/11/Instagram-Logo.png" />
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://discord.com/users/Pabro03">
-    <img alt="Discord" height="40px" src="https://static.vecteezy.com/system/resources/previews/018/930/500/original/discord-logo-discord-icon-transparent-free-png.png" />
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb?si=aca19390f4b14cfc">
-    <img alt="Spotify" height="40px" src="https://static.vecteezy.com/system/resources/previews/023/986/494/non_2x/spotify-logo-spotify-logo-transparent-spotify-icon-transparent-free-free-png.png" />
+  <a href="https://open.spotify.com/user/5d5tkhfr5ha32s77qzzvvkyeb">
+    <img alt="Spotify" src="https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" />
   </a>
 </p>
-
-<br />
 
 ---
 
@@ -36,36 +37,32 @@
 
 <p align="center">
   <!-- Backend & Languages -->
-  <img src="http://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff" alt="Python" />
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=ffffff" alt="TypeScript" />
   <img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=ffffff" alt="NestJS" />
   <img src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=ffffff" alt="R" />
-  
+
   <!-- DevOps & Cloud -->
   <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=ffffff" alt="Kubernetes" />
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff" alt="Docker" />
-  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=ffffff" alt="GCP" />
-  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff" alt="GitHub Actions" />
-  
+  <img src="https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=ffffff" alt="Google Cloud" />
+  <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=ffffff" alt="GitHub Actions" />
+
   <!-- Data & Analytics -->
-  <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=google-cloud&logoColor=ffffff" alt="BigQuery" />
-  <img src="https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/-BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=ffffff" alt="BigQuery" />
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=000000" alt="Power BI" />
 
   <!-- Methodologies & Management -->
   <img src="https://img.shields.io/badge/-Scrum-008CB9?style=flat-square&logo=scrumalliance&logoColor=ffffff" alt="Scrum" />
   <img src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=ffffff" alt="Jira" />
 </p>
 
-<br/>
-
 ---
 
-<h2 align="center"> Github Statistics 📈 </h2>
+<h2 align="center">GitHub Statistics 📈</h2>
 
-<div align="center"> 
-   <a href="https://github.com/PabloR03">
-    <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloR03&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
+<p align="center">
+  <a href="https://github.com/PabloR03">
+    <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=PabloR03&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" alt="Pablo's GitHub stats" />
   </a>
-</div>
-
----
+</p>
